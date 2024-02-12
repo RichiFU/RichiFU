@@ -2,6 +2,9 @@
 
 ## Ricardo Fuentes 
 
+As a full-stack web developer, I have a passion for crafting intuitive, responsive web applications with meticulous attention to detail.
+I am enthusiastic about continuous learning and look forward to expanding my expertise and capabilities in the field.
+
 <!--
 **RichiFU/RichiFU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
