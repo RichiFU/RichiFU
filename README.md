@@ -1,5 +1,4 @@
 ### Hi👋 I'm
-
 ## Ricardo Fuentes U.
 
 As a full-stack web developer, I have a passion for crafting intuitive, responsive web applications with meticulous attention to detail.
