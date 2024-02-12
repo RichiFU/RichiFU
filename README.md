@@ -1,21 +1,21 @@
 ### Hi👋 I'm
 
-## Ricardo Fuentes 
+## Ricardo Fuentes U
 
 As a full-stack web developer, I have a passion for crafting intuitive, responsive web applications with meticulous attention to detail.
 I am enthusiastic about continuous learning and look forward to expanding my expertise and capabilities in the field.
 
-<!--
-**RichiFU/RichiFU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: Andresurizarfuentes@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
