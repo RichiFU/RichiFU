@@ -6,6 +6,6 @@ I am enthusiastic about continuous learning and look forward to expanding my exp
 
 - 🌱 I’m currently learning: NextJs and Tailwind
 - 📫 How to reach me: Andresurizarfuentes@gmail.com
-- :computer: My projects are on my Portfolio: https://portafolio-nine-gules.vercel.app
+- :computer: My projects and Portfolio: https://portafolio-nine-gules.vercel.app
 
 
